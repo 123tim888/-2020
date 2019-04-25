@@ -342,18 +342,22 @@ hr {
     background: URL("https://resource01.ulifestyle.com.hk/res/v3/image/content/1955000/1957262/1_1024.jpg");
     background-size: cover;
     color:RGB(0,0,0,0);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     background: URL("https://cdn2.ettoday.net/images/2481/2481515.jpg");
     background-size: cover;
     color:RGB(0,0,0,0);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
     background: URL("https://s3.hicloud.net.tw/forum.public/public/img/1515117953_c5d0db7edf3e0981d8413af2ee8abe8a796a9483.jpg");
     background-size: cover;
     color:RGB(0,0,0,0);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-64 .tile-inner {
     background: URL("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJH_JgkxoTbpRQwFoSb_S2aLmY5g7n0pzF--JIN_cmQdeW4ft");
     background-size: cover;
     color:RGB(0,0,0,0);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-128 .tile-inner {
     background: URL("https://img.eservice-hk.net/upload/2018/10/17/121743_b47013fde026acff0aedc7c8881d8ed9.gif");
     background-size: cover;
