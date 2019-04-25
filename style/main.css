@@ -334,55 +334,66 @@ hr {
     color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: URL("https://i.ytimg.com/vi/kpxX5KdBYcI/maxresdefault.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    background: URL("https://resource01.ulifestyle.com.hk/res/v3/image/content/1955000/1957262/1_1024.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background: URL("https://cdn2.ettoday.net/images/2481/2481515.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background: URL("https://s3.hicloud.net.tw/forum.public/public/img/1515117953_c5d0db7edf3e0981d8413af2ee8abe8a796a9483.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background: URL("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJH_JgkxoTbpRQwFoSb_S2aLmY5g7n0pzF--JIN_cmQdeW4ft");
+    background-size: cover;
+    color:RGB(0,0,0,0);
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    background: URL("https://img.eservice-hk.net/upload/2018/10/17/121743_b47013fde026acff0aedc7c8881d8ed9.gif");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
+   background: URL("https://s3.hicloud.net.tw/forum.public/public/img/1515117980_d9814327472f675c3ffd375f25d468ad43364d29.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
+    background: URL("https://img.vogue.com.tw/_rs/960/userfiles/FCK/2018120769518209.jpgg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    background: URL("https://img.gq.com.tw/_rs/645/userfiles/sm/sm1024_images_A1/38274/2018122756093025.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
+   background: URL("https://dvblobcdnjp.azureedge.net//Content/Upload/Popular/Images/2018-02/e45f3742-5d85-49ed-bf22-8c5c1013b7db_m.jpg");
+    background-size: cover;
+    color:RGB(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
