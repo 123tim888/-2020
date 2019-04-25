@@ -3,6 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: URL("https://doqvf81n9htmm.cloudfront.net/data/crop_article/88987/FotHANoJet.jpg_1140x855.jpg");
+  background-repeat:no-repeat;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
